@@ -102,20 +102,19 @@ body {
 /* line 28, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_page.scss */
 html {
   box-sizing: border-box;
-  color: red;
 }
 
-/* line 33, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_page.scss */
+/* line 32, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_page.scss */
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
-/* line 37, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_page.scss */
+/* line 36, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_page.scss */
 body {
   background: #312450;
 }
 
-/* line 42, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_page.scss */
+/* line 41, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_page.scss */
 body.is-preload *, body.is-preload *:before, body.is-preload *:after {
   -moz-animation: none !important;
   -webkit-animation: none !important;
@@ -2762,6 +2761,11 @@ input[type="radio"] + label:before {
 /* line 56, C:/Users/Dstar/projects/portfolio-v1/assets/sass/components/_image.scss */
 .image.main img {
   width: 100%;
+}
+
+/* line 61, C:/Users/Dstar/projects/portfolio-v1/assets/sass/components/_image.scss */
+.portfolio-img {
+  max-width: 400px;
 }
 
 /* List */
