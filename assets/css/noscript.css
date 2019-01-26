@@ -1,0 +1,46 @@
+/*
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+/* Spotlights */
+/* line 19, C:/Users/Dstar/projects/portfolio-v1/assets/sass/noscript.scss */
+.spotlights > section > .image:before {
+  opacity: 0 !important;
+}
+
+/* line 25, C:/Users/Dstar/projects/portfolio-v1/assets/sass/noscript.scss */
+.spotlights > section > .content > .inner {
+  -moz-transform: none !important;
+  -webkit-transform: none !important;
+  -ms-transform: none !important;
+  transform: none !important;
+  opacity: 1 !important;
+}
+
+/* Wrapper */
+/* line 36, C:/Users/Dstar/projects/portfolio-v1/assets/sass/noscript.scss */
+.wrapper > .inner {
+  opacity: 1 !important;
+  -moz-transform: none !important;
+  -webkit-transform: none !important;
+  -ms-transform: none !important;
+  transform: none !important;
+}
+
+/* Sidebar */
+/* line 45, C:/Users/Dstar/projects/portfolio-v1/assets/sass/noscript.scss */
+#sidebar > .inner {
+  opacity: 1 !important;
+}
+
+/* line 51, C:/Users/Dstar/projects/portfolio-v1/assets/sass/noscript.scss */
+#sidebar nav > ul > li {
+  -moz-transform: none !important;
+  -webkit-transform: none !important;
+  -ms-transform: none !important;
+  transform: none !important;
+  opacity: 1 !important;
+}
+
+/*# sourceMappingURL=../css/noscript.map */
