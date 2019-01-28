@@ -348,17 +348,22 @@ hr.major {
   margin: 3em 0;
 }
 
-/* line 190, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_typography.scss */
+/* line 189, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_typography.scss */
+.projects {
+  text-align: center;
+}
+
+/* line 193, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_typography.scss */
 .align-left {
   text-align: left;
 }
 
-/* line 194, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_typography.scss */
+/* line 197, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_typography.scss */
 .align-center {
   text-align: center;
 }
 
-/* line 198, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_typography.scss */
+/* line 201, C:/Users/Dstar/projects/portfolio-v1/assets/sass/base/_typography.scss */
 .align-right {
   text-align: right;
 }
@@ -2765,7 +2770,9 @@ input[type="radio"] + label:before {
 
 /* line 61, C:/Users/Dstar/projects/portfolio-v1/assets/sass/components/_image.scss */
 .portfolio-img {
+  width: 100%;
   max-width: 400px;
+  max-height: auto;
 }
 
 /* List */
