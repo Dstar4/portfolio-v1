@@ -2770,9 +2770,9 @@ input[type="radio"] + label:before {
 
 /* line 61, C:/Users/Dstar/projects/portfolio-v1/assets/sass/components/_image.scss */
 .portfolio-img {
+  width: 100%;
   max-width: 400px;
   max-height: auto;
-  width: 100%;
 }
 
 /* List */
